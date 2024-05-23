@@ -1,0 +1,1 @@
+https://ukg37eqjp0.execute-api.us-east-1.amazonaws.com/test-version/predict
